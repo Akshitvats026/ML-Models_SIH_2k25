@@ -1,4 +1,4 @@
-# 🚀🌱 Crop Recommendation & Disease Detection System | SIH 2k25 🚜
+# 🌱 Crop Recommendation & Disease Detection model | SIH 2k25 🚜
 
 ### Empowering Farmers with Data-Driven Insights & AI-Powered Disease Detection 🌿  
 Helping farmers choose the best crops and detect diseases early to boost productivity and ensure sustainable agriculture. 🌍
