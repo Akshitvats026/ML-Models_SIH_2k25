@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Apple Scab",
+        "cause": "Fungus grows in cool, wet weather.",
+        "cure": "Spray fungicide, plant strong apple types, and remove sick leaves."
+    },
+    {
+        "name": "Apple Black Rot",
+        "cause": "Fungus attacks apple trees.",
+        "cure": "Cut off bad parts and use fungicide."
+    },
+    {
+        "name": "Apple Cedar Apple Rust",
+        "cause": "Fungus needs juniper plants nearby.",
+        "cure": "Remove juniper plants, use strong apple types, and spray fungicide."
+    },
+    {
+        "name": "Cherry Powdery Mildew",
+        "cause": "Fungus grows on leaves.",
+        "cure": "Spray sulfur or fungicide and keep air moving around trees."
+    },
+    {
+        "name": "Corn Gray Leaf Spot",
+        "cause": "Fungus attacks corn leaves.",
+        "cure": "Plant strong corn types and spray fungicide."
+    },
+    {
+        "name": "Corn Common Rust",
+        "cause": "Fungus causes rust spots.",
+        "cure": "Spray fungicide and plant strong corn types."
+    },
+    {
+        "name": "Corn Northern Leaf Blight",
+        "cause": "Fungus damages leaves.",
+        "cure": "Use strong corn types and spray fungicide."
+    },
+    {
+        "name": "Grape Black Rot",
+        "cause": "Fungus infects grapes.",
+        "cure": "Cut off sick parts and spray fungicide."
+    },
+    {
+        "name": "Grape Black Measles",
+        "cause": "Fungus attacks grape wood.",
+        "cure": "Remove sick wood and avoid hurting vines."
+    },
+    {
+        "name": "Grape Leaf Blight",
+        "cause": "Fungus causes leaf spots.",
+        "cure": "Spray fungicide and keep vineyard clean."
+    },
+    {
+        "name": "Orange Citrus Greening",
+        "cause": "Bacteria spread by small insects.",
+        "cure": "Control insects and remove sick trees."
+    },
+    {
+        "name": "Peach Bacterial Spot",
+        "cause": "Bacteria infect peach trees.",
+        "cure": "Plant strong peach types and spray copper medicine."
+    },
+    {
+        "name": "Pepper Bacterial Spot",
+        "cause": "Bacteria attack peppers.",
+        "cure": "Use copper spray and strong pepper types."
+    },
+    {
+        "name": "Potato Early Blight",
+        "cause": "Fungus damages potato leaves.",
+        "cure": "Spray fungicide and change crops each year."
+    },
+    {
+        "name": "Potato Late Blight",
+        "cause": "Germ attacks potatoes.",
+        "cure": "Plant strong types and spray fungicide."
+    },
+    {
+        "name": "Squash Powdery Mildew",
+        "cause": "Fungus grows on squash leaves.",
+        "cure": "Spray sulfur fungicide and keep air moving."
+    },
+    {
+        "name": "Strawberry Leaf Scorch",
+        "cause": "Fungus damages leaves.",
+        "cure": "Remove sick leaves and spray fungicide."
+    },
+    {
+        "name": "Tomato Bacterial Spot",
+        "cause": "Bacteria attack tomatoes.",
+        "cure": "Spray copper medicine and change crops."
+    },
+    {
+        "name": "Tomato Early Blight",
+        "cause": "Fungus damages tomato leaves.",
+        "cure": "Spray fungicide and remove sick leaves."
+    },
+    {
+        "name": "Tomato Late Blight",
+        "cause": "Germ attacks tomatoes.",
+        "cure": "Plant strong types and spray fungicide."
+    },
+    {
+        "name": "Tomato Leaf Mold",
+        "cause": "Fungus grows in humid air.",
+        "cure": "Spray fungicide and keep air moving."
+    },
+    {
+        "name": "Tomato Septoria Leaf Spot",
+        "cause": "Fungus causes leaf spots.",
+        "cure": "Remove sick leaves and spray fungicide."
+    },
+    {
+        "name": "Tomato Spider Mites",
+        "cause": "Tiny bugs eat leaves.",
+        "cure": "Spray bug medicine or soap."
+    },
+    {
+        "name": "Tomato Target Spot",
+        "cause": "Fungus causes spots.",
+        "cure": "Spray fungicide and keep air moving."
+    },
+    {
+        "name": "Tomato Yellow Leaf Curl Virus",
+        "cause": "Virus spread by whiteflies.",
+        "cure": "Control whiteflies and plant strong tomato types."
+    },
+    {
+        "name": "Tomato Mosaic Virus",
+        "cause": "Virus spreads by touch and dirty tools.",
+        "cure": "Remove sick plants and clean tools."
+    }
+]
