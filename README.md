@@ -1,7 +1,8 @@
-# 🌱 Crop Recommendation & Disease Detection System SIH_2k25 🚜
+# 🚀🌱 Crop Recommendation & Disease Detection System | SIH 2k25 🚜
 
-An intelligent web application that helps farmers recommend the most suitable crops based on soil, weather, and environmental data, and detect crop diseases from images using machine learning.  
-This all-in-one solution empowers farmers with data-driven insights and easy disease detection to improve productivity and reduce losses. 🌾
+### Empowering Farmers with Data-Driven Insights & AI-Powered Disease Detection 🌿  
+Helping farmers choose the best crops and detect diseases early to boost productivity and ensure sustainable agriculture. 🌍
+
 
 ---
 
@@ -61,6 +62,16 @@ pip install -r requirements.txt
 python app.py
 
 ---
+
+## 📸 Snapshots
+
+<img src="https://github.com/user-attachments/assets/9277af8a-6579-49ac-aa26-a849c56231a6" alt="Screenshot 1" width="800" />
+
+<img src="https://github.com/user-attachments/assets/60c9a253-e853-4e57-a2ba-2e862f88a75a" alt="Screenshot 2" width="800" />
+
+<img src="https://github.com/user-attachments/assets/a31798b3-6189-45a2-b730-4b7468160464" alt="Screenshot 3" width="800" />
+
+
 
 ## 🌱 Future Improvements
 
