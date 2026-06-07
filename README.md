@@ -90,7 +90,7 @@ Enhance UI animations and interactivity
 This project is designed to empower farmers by combining the power of machine learning and intuitive design to recommend the best crops and detect diseases early.
 ✨ Whether you are a developer, a data enthusiast, or someone passionate about sustainable farming, your contributions and feedback are always welcome! 🚀
 
-### ❤️ Made With Love By Akshit Vats
+### ❤️Models Developed and Evaluated By Akshit Vats
 
 💡 Innovating for a greener, healthier planet 🌍
 
